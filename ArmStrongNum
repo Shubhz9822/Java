@@ -29,8 +29,8 @@ public class SArmstrongNum
 		
 		System.out.print("\nDigits = ");
 		
-	//-----------------------------------------------------Separate the Digit----------------------------------------------------
-		while(num>0)                
+	//-----------------------------------------------------Separate the Digit----------------------
+		while(num<0)                
 		{
 			int power=count;	
 			int res=1;
